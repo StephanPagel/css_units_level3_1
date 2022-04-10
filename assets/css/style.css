@@ -1,0 +1,33 @@
+/* ==============================================================
+            GENERAL
+=============================================================== */
+
+body {
+    background: url('https://images.pexels.com/photos/11261103/pexels-photo-11261103.jpeg?cs=srgb&dl=pexels-andre-moura-11261103.jpg&fm=jpg') no-repeat center;
+    background-size: cover;
+    font-size: 10px;
+}
+
+section h1 {
+    font-size: 2rem;
+    background-color: rgba(103, 103, 103, 0.5);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+
+
+
+article {
+    font-family: Helvetica;
+    color: black;
+    text-align: center;
+    font-size: 1.3em;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    padding: 20px 0 30px 0;
+}
+
+h2 {
+    padding: 10px 0;
+}
